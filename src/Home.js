@@ -6,7 +6,6 @@ import Product from "./Product";
 const Home = () => {
   return (
     <>
-      <Header />
       <div className="home">
         <div className="home_container">
           <img

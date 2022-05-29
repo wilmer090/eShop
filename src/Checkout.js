@@ -8,7 +8,6 @@ const Checkout = () => {
   const [{ basket }, dispatch] = useStateValue();
   return (
     <>
-      <Header />
       <div className="checkout">
         <div className="checkout_left">
           <img
