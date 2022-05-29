@@ -1,8 +1,8 @@
 import "./App.css";
 import Home from "./pages/Home";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Checkout from "./Checkout";
-import Login from "./Login";
+import Checkout from "./pages/Checkout";
+import Login from "./pages/Login";
 import Layout from "./component/Layout";
 function App() {
   return (

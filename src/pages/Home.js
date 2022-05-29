@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../component/Header";
 import "../assets/styles/Home.css";
-import Product from "../Product";
+import Product from "../component/Product";
 
 const Home = () => {
   return (
